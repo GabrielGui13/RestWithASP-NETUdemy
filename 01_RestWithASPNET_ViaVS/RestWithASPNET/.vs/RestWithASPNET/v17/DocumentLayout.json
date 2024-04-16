@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri.POSSANTE-DE-GG\\Documents\\dotnet-study\\RestWithASP-NETUdemy\\01_RestWithASPNET_ViaVS\\RestWithASPNET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1050CF1F-A443-4F85-B036-A5E06835DED0}|RestWithASPNET\\RestWithASPNET.csproj|c:\\users\\gabri.possante-de-gg\\documents\\dotnet-study\\restwithasp-netudemy\\01_restwithaspnet_viavs\\restwithaspnet\\restwithaspnet\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1050CF1F-A443-4F85-B036-A5E06835DED0}|RestWithASPNET\\RestWithASPNET.csproj|solutionrelative:restwithaspnet\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri.POSSANTE-DE-GG\\Documents\\dotnet-study\\RestWithASP-NETUdemy\\01_RestWithASPNET_ViaVS\\RestWithASPNET\\RestWithASPNET\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "RestWithASPNET\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\gabri.POSSANTE-DE-GG\\Documents\\dotnet-study\\RestWithASP-NETUdemy\\01_RestWithASPNET_ViaVS\\RestWithASPNET\\RestWithASPNET\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "RestWithASPNET\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T18:12:33.184Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
